@@ -1,0 +1,15 @@
+E:\Wipro GL\Probelm_3\Probelm_3\bin\Debug\Probelm_3.exe.config
+E:\Wipro GL\Probelm_3\Probelm_3\bin\Debug\Probelm_3.exe
+E:\Wipro GL\Probelm_3\Probelm_3\bin\Debug\Probelm_3.pdb
+E:\Wipro GL\Probelm_3\Probelm_3\obj\Debug\Probelm_3.csproj.AssemblyReference.cache
+E:\Wipro GL\Probelm_3\Probelm_3\obj\Debug\Probelm_3.csproj.SuggestedBindingRedirects.cache
+E:\Wipro GL\Probelm_3\Probelm_3\obj\Debug\Probelm_3.csproj.CoreCompileInputs.cache
+E:\Wipro GL\Probelm_3\Probelm_3\obj\Debug\Probelm_3.exe
+E:\Wipro GL\Probelm_3\Probelm_3\obj\Debug\Probelm_3.pdb
+E:\FRIEND\Graded Project_W2\Probelm_3\Probelm_3\bin\Debug\Probelm_3.exe.config
+E:\FRIEND\Graded Project_W2\Probelm_3\Probelm_3\bin\Debug\Probelm_3.exe
+E:\FRIEND\Graded Project_W2\Probelm_3\Probelm_3\bin\Debug\Probelm_3.pdb
+E:\FRIEND\Graded Project_W2\Probelm_3\Probelm_3\obj\Debug\Probelm_3.csproj.AssemblyReference.cache
+E:\FRIEND\Graded Project_W2\Probelm_3\Probelm_3\obj\Debug\Probelm_3.csproj.CoreCompileInputs.cache
+E:\FRIEND\Graded Project_W2\Probelm_3\Probelm_3\obj\Debug\Probelm_3.exe
+E:\FRIEND\Graded Project_W2\Probelm_3\Probelm_3\obj\Debug\Probelm_3.pdb

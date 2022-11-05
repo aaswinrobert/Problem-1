@@ -1,0 +1,15 @@
+E:\Wipro GL\Problem2\Problem2\bin\Debug\Problem2.exe.config
+E:\Wipro GL\Problem2\Problem2\bin\Debug\Problem2.exe
+E:\Wipro GL\Problem2\Problem2\bin\Debug\Problem2.pdb
+E:\Wipro GL\Problem2\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+E:\Wipro GL\Problem2\Problem2\obj\Debug\Problem2.csproj.SuggestedBindingRedirects.cache
+E:\Wipro GL\Problem2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+E:\Wipro GL\Problem2\Problem2\obj\Debug\Problem2.exe
+E:\Wipro GL\Problem2\Problem2\obj\Debug\Problem2.pdb
+E:\FRIEND\Graded Project_W2\Problem2\Problem2\bin\Debug\Problem2.exe.config
+E:\FRIEND\Graded Project_W2\Problem2\Problem2\bin\Debug\Problem2.exe
+E:\FRIEND\Graded Project_W2\Problem2\Problem2\bin\Debug\Problem2.pdb
+E:\FRIEND\Graded Project_W2\Problem2\Problem2\obj\Debug\Problem2.csproj.AssemblyReference.cache
+E:\FRIEND\Graded Project_W2\Problem2\Problem2\obj\Debug\Problem2.csproj.CoreCompileInputs.cache
+E:\FRIEND\Graded Project_W2\Problem2\Problem2\obj\Debug\Problem2.exe
+E:\FRIEND\Graded Project_W2\Problem2\Problem2\obj\Debug\Problem2.pdb
